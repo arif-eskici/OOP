@@ -1,6 +1,6 @@
 # Film Management System
 
-Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+Online film satan veya kiralayan uygulamanın sistemini tasarlayın:
 
 - Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
 - Kullanıcılar abonelik için sistem üzerinden kredi satın alır.

@@ -1,6 +1,6 @@
 # Zoo Management System
 
-Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
+Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz 
 
 - Hayvanlar:
 - Atlar (atlar, zebralar, eşekler vb.),

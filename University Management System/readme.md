@@ -1,6 +1,6 @@
 # University Management System
 
-Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz:
+Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz :
 
 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
